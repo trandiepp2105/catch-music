@@ -1,0 +1,17 @@
+.login-page {
+  min-width: 100vw;
+  min-height: 100vh;
+  background-color: #ffbaba;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  max-height: fit-content;
+}
+
+.main-content {
+  width: 100%;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
